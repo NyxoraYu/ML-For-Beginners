@@ -363,4 +363,5 @@ ML-For-Beginners.Rproj
 
 .env
 .venv
+.idea
 venv
